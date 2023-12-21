@@ -13,8 +13,8 @@
   </style>
 </head>
 <body>
-  <button class='button' onclick='previousSlide()'>Previous Slide</button>
-  <button class='button' onclick='nextSlide()'>Next Slide</button>
+  <!-- <button class='button' onclick='previousSlide()'>Previous Slide</button>
+  <button class='button' onclick='nextSlide()'>Next Slide</button> -->
 
   <br><br>
 
@@ -23,13 +23,13 @@
 <script>
   var iframe = document.getElementById('slides-iframe');
   
-  function previousSlide() {
-    iframe.contentWindow.postMessage('previous', '*');
-  }
+//   function previousSlide() {
+//     iframe.contentWindow.postMessage('previous', '*');
+//   }
 
-  function nextSlide() {
-    iframe.contentWindow.postMessage('next', '*');
-  }
+//   function nextSlide() {
+//     iframe.contentWindow.postMessage('next', '*');
+//   }
 </script>
 </body>
 </html>
