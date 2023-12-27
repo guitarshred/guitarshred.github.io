@@ -1,0 +1,22 @@
+{
+    "Measures": [
+        {
+            "Notes": [
+                {"Time": 0.0, "StringAndFrets": [100]},
+                {"Time": 0.5, "StringAndFrets": [101]},
+                {"Time": 1.0, "StringAndFrets": [101]},
+                {"Time": 1.75, "StringAndFrets": [101]},
+                {"Time": 3.0, "StringAndFrets": [102]}
+            ]
+        },
+        {
+            "Notes": [
+                {"Time": 0.0, "StringAndFrets": [100, 200]},
+                {"Time": 0.5, "StringAndFrets": [100, 201, 302]},
+                {"Time": 1.0, "StringAndFrets": [100]},
+                {"Time": 2.0, "StringAndFrets": [100]},
+                {"Time": 3.0, "StringAndFrets": [512]}
+            ]
+        }
+    ]
+}
