@@ -13,7 +13,7 @@
             "Notes": [
                 {"Time": 0.0, "StringAndFrets": [100, 200]},
                 {"Time": 0.5, "StringAndFrets": [100, 201, 302]},
-                {"Time": 1.0, "StringAndFrets": [100]},
+                {"Time": 1.0, "StringAndFrets": [100, 200, 300]},
                 {"Time": 2.0, "StringAndFrets": [100]},
                 {"Time": 3.0, "StringAndFrets": [112, 212, 412, 512, 612]}
             ]
