@@ -15,7 +15,7 @@
                 {"Time": 0.5, "StringAndFrets": [100, 201, 302]},
                 {"Time": 1.0, "StringAndFrets": [100]},
                 {"Time": 2.0, "StringAndFrets": [100]},
-                {"Time": 3.0, "StringAndFrets": [512, 612, 412]}
+                {"Time": 3.0, "StringAndFrets": [412, 512, 612]}
             ]
         }
     ]
