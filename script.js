@@ -5,6 +5,8 @@ function increaseCounter() {
   counter++; // Increase the counter by 1
   document.getElementById("counter").innerText = counter; // Update counter display
   window.location.href = "unity:"+counter; // Pass counter value to Unity
+
+  window.location.href = "unityscheme://counterValue?value=" + counter;
 }
 
 // Option to send the final value of the counter to Unity before closing
